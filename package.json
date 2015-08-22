@@ -1,0 +1,15 @@
+{
+  "name": "chat",
+  "version": "0.0.1",
+  "description": "aplicacion para implementar chat en tiempo real",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/leonardonorambuena/Chat-IO)"
+  },
+  "author": "Leonardo Norambuena <leonardo.norambuenam@gmail.com>",
+  "license": "ISC"
+}
